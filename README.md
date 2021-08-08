@@ -23,7 +23,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  !(https://s4.uupload.ir/files/22da9a4a-506c-4525-9cd9-eae152d69edd_4aem.png)
+  <img src="https://s4.uupload.ir/files/22da9a4a-506c-4525-9cd9-eae152d69edd_4aem.png">
 </p>
 
 <p align= "center">
