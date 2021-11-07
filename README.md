@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Python/django Skills**
 
-- 🌱 I’m currently  **Studying French 🇫🇷 And korean 🇰🇷🥢**
+- 🌱 I’m currently  **Studying French 🇫🇷 , korean 🇰🇷🥢 And Machine learning **
 
 - 🙋‍♂️ I’m looking to collaborate on **front-end and back-end projects**
 
@@ -23,9 +23,11 @@
 
 <h3 align="center">Skills :</h3>
 
-<p align="center"> 
+<div align="center"> 
   <img src="https://s4.uupload.ir/files/22da9a4a-506c-4525-9cd9-eae152d69edd_4aem.png">
-</p>
+
+   - I also know Arduino/Avr and worked with c++ , c# and php
+</div>
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Mehrsam1111&theme=react&show_icons=true&include_all_commits=true" />
