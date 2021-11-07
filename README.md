@@ -26,7 +26,7 @@
 <div align="center"> 
   <img src="https://s4.uupload.ir/files/22da9a4a-506c-4525-9cd9-eae152d69edd_4aem.png">
 
-   - I also know Arduino/Avr and worked with c++ , c# and php
+   - I also know Arduino/Avr and I worked with c++ , c# and php
 </div>
 
 <p align= "center">
