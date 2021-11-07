@@ -24,7 +24,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <img src="https://s4.uupload.ir/files/22da9a4a-506c-4525-9cd9-eae152d69edd_4aem.png">
+  <img src="https://s4.uupload.ir/files/0c8beec1-ddc0-435e-a5c2-271643d4bc03_7u4n.jpeg">
 </p>
 
 <p align= "center">
