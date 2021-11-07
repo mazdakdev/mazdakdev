@@ -16,7 +16,9 @@
 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mehrsam_4444)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehrsam.developer@gmail.com)
-  
+[![image](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Mehrsam_1111)
+[![image](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/i_mehrsam)
+
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
