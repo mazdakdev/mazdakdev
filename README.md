@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Python/django Skills**
 
-- 🌱 I’m currently  **coding**
+- 🌱 I’m currently  **Studying French 🇫🇷 And korean 🇰🇷🥢**
 
 - 🙋‍♂️ I’m looking to collaborate on **front-end and back-end projects**
 
@@ -21,7 +21,7 @@
 
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Skills :</h3>
 
 <p align="center"> 
   <img src="https://s4.uupload.ir/files/22da9a4a-506c-4525-9cd9-eae152d69edd_4aem.png">
