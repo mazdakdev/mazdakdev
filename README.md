@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Python/django Skills**
 
-- 🌱 I’m currently learning **Tailwind.css, bulma **
+- 🌱 I’m currently coding ** projects **
 
 - 🙋‍♂️ I’m looking to collaborate on **front-end and back-end projects**
 
@@ -14,8 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beyond_minds_1111/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mehrsam_1111)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mehrsam_4444
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehrsam.developer@gmail.com)
   
 </div>
