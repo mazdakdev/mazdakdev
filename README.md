@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehrsam <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A Python and Front-End (and a beginner designer) developer from Iran</h3>
+<h3 align="center">A Full-Stack developer from Iran</h3>
 
 # Passport name : [ Mazdak Pakaghideh]
 ## My nickname is Mehrsam
