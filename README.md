@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mehrsam <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A Full-Stack developer from Iran</h3>
+# A Full-Stack developer from Iran
 
-# Passport name : [ Mazdak Pakaghideh]
-## My nickname is Mehrsam
+## Passport name : [ Mazdak Pakaghideh]
+### My nickname is Mehrsam
 
 - 🔭 I’m currently working on my **Open Source projects**
 
-- 🌱 I’m currently  **Learning Machine learning **
+- 🌱 I’m currently  **Learning Machine learning**
 
 - 🙋‍♂️ I’m looking to collaborate on **front-end and back-end projects**
 
