@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mehrsam <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Mazdak <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 # A Full-Stack developer from Iran
 
-## Passport name : [ Mazdak Pakaghideh]
-### My nickname is Mehrsam
 
 - 🔭 I’m currently working on my **Open Source projects**
 
@@ -11,17 +9,17 @@
 
 - 🙋‍♂️ I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **mehrsam.developer@gmail.com**
+- 📫 How to reach me: **Mazdak.software@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, programming and thinking**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_mehrs4m)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehrsam.developer@gmail.com)
-[![image](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Mehrsam_1111)
-[![image](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/i_mehrsam)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_mazdak)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazdak.software@gmail.com)
+[![image](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Mazdak_Software)
+[![image](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/m42d4k)
 
 </div>
 
