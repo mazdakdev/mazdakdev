@@ -63,10 +63,11 @@
 <ul>
   <li>Persian - Native</li>
   <li>English - fluent </li>
-  <li>French - A1 learning</li>
-  <li>Korean - A1 Learning</li>
-  <li>Spanish - A1 Learning</li>
-  <li>Arabic - Intermediate Learning</li>
+  <li>Korean - A1 ~ Learning</li>
+  <li>French - A little bit</li>
+  
+  <li>Spanish - a little bit</li>
+  <li>Arabic -  Learning at school</li>
 
 </ul>
 
