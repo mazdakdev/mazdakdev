@@ -13,6 +13,8 @@
 
 - ⚡ What I like to do: **I like so much reading, programming and thinking**
 
+- - - -
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
@@ -22,6 +24,8 @@
 [![image](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/i_mazdak)
 
 </div>
+
+- - - -
 
 ## Github Activity :
 
