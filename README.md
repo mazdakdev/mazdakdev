@@ -57,6 +57,11 @@
   <li>Machine learning</li>
   <li>Arduino</li>
   <li>AVR</li>
+  --------------
+  <li>Mac os</li>
+  <li>IOS</li>
+  <li>Kali linux</li>
+  <li>Android</li>
 </ul>
 
 ## Languages :
