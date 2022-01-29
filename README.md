@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **Mazdak.software@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, programming and thinking**
+- ⚡ What I like to do: **reading, programming and thinking about the universe**
 
 
 <h3 align="center">Connect with me:</h3>
@@ -33,6 +33,10 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazdakdev&theme=react&layout=compact" />
 </p>
 
+- - - -
+# Other Projects :
+ - ### <a href="https://rendolives.ir">rendolives.ir (E-commerce & Blog Website with Django ) </a>
+- - - -
 
 # Languages & Tool :
 - - - - 
