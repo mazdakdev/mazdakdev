@@ -43,6 +43,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -75,6 +76,8 @@
 ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![appple](https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+
 
 - - - -
 
@@ -85,8 +88,6 @@
   <li>CEH</li>
   <li>Machine learning</li>
   <li>AVR</li>
-  <li>Kali linux</li>
-  <li>Android</li>
 </ul>
 
 ## Languages :
@@ -94,7 +95,7 @@
   <li>Persian - Native</li>
   <li>English - fluent </li>
   <li>Korean - A1 ~ Learning</li>
-  <li>French - A little bit</li>
+  <li>French - A1 ~ Learning</li>
   
   <li>Spanish - a little bit</li>
   <li>Arabic -  Learning at school</li>
