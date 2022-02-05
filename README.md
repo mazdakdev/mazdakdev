@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my **Open Source projects**
 
-- 🌱 I’m currently  **Learning Machine learning**
+- 🌱 I’m currently  **Learning Machine learning & Blockchain**
 
 - 🙋‍♂️ I’m looking to collaborate on **front-end and back-end projects**
 
