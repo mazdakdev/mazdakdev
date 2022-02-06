@@ -34,11 +34,9 @@
 </p>
 
 - - - -
-# Other Projects :
- - ### <a href="https://rendolives.ir">rendolives.ir (E-commerce & Blog Website with Django ) </a>
-- - - -
 
-# Languages & Tool :
+
+# Languages & Tools :
 - - - - 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
