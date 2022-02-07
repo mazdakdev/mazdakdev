@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mazdak <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-# A Full-Stack developer from Iran
+# A Teenager developer from Iran
 
 
 - 🔭 I’m currently working on my **Open Source projects**
