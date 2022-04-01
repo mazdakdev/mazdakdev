@@ -73,7 +73,7 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![appple](https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white)
-![solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+
 
 
 - - - -
@@ -93,8 +93,6 @@
   <li>English - fluent </li>
   <li>Korean - A1 ~ Learning</li>
   <li>French - A1 ~ Learning</li>
-  
-  <li>Spanish - a little bit</li>
   <li>Arabic -  Learning at school</li>
 
 </ul>
