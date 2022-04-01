@@ -87,14 +87,5 @@
   <li>AVR</li>
 </ul>
 
-## Languages :
-<ul>
-  <li>Persian - Native</li>
-  <li>English - fluent </li>
-  <li>Korean - A1 ~ Learning</li>
-  <li>French - A1 ~ Learning</li>
-  <li>Arabic -  Learning at school</li>
-
-</ul>
 
 
