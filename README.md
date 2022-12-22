@@ -1,18 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mazdak</h1>
-
-# A Teenager developer from Iran
-
-
-- 🔭 I’m currently working on my **Open Source projects**
-
-- 🌱 I’m currently  **Learning Machine learning & Blockchain**
-
-- 🙋‍♂️ I’m looking to collaborate on **front-end and back-end projects**
-
-- 📫 How to reach me: **Mazdak.software@gmail.com**
-
-- ⚡ What I like to do: **reading, programming and thinking about the universe**
-
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
